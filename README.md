@@ -7,18 +7,6 @@ Simple Hotel Management System is based on the concept of managing the hotel roo
 Talking about the features of the Simple Hotel Management System, the user can easily book a room by providing room number, name, address, and phone number. The user can also search for the customer’s detail from their room numbers. He/she can check the total room’s allotted which shows room numbers, customer’s name, their addresses, and phone numbers. All the stored records can be modified and deleted. The last feature of this mini project is about payments. By entering the room number, the system displays the total bill of the customer.
 
 
-C/C++ Projects
-Simple Hotel Management System In C++ With Source Code
-
-    November 11, 2018
-    Fabian Ros
-    2 Comments
-
-Project: Simple Hotel Management System in C++ with source code
-
-– To download simple hotel management system for free (scroll down)
-About Project
-
 Simple Hotel Management System is based on the concept of managing the hotel room’s bookings and payments. In this system, there are no login features. The user can manage room bookings, customer records, view total allotted rooms, edit records, and make payments. This mini project contains limited but essential features.
 
 Talking about the features of the Simple Hotel Management System, the user can easily book a room by providing room number, name, address, and phone number. The user can also search for the customer’s detail from their room numbers. He/she can check the total room’s allotted which shows room numbers, customer’s name, their addresses, and phone numbers. All the stored records can be modified and deleted. The last feature of this mini project is about payments. By entering the room number, the system displays the total bill of the customer.
